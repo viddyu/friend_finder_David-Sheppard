@@ -1,0 +1,26 @@
+{
+  "name": "friend_finder_David-Sheppard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viddyu/friend_finder_David-Sheppard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viddyu/friend_finder_David-Sheppard/issues"
+  },
+  "homepage": "https://github.com/viddyu/friend_finder_David-Sheppard#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
